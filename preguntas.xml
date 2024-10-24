@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<examen>
+    <pregunta id="1">
+        <enunciado>¿Qué significa HTML?</enunciado>
+        <opciones>
+            <opcion>A) Hyper Trainer Marking Language</opcion>
+            <opcion>B) Hyper Text Markup Language</opcion>
+            <opcion>C) Hyper Text Markdown Language</opcion>
+            <opcion>D) Highlevel Text Markup Language</opcion>
+        </opciones>
+        <respuesta>B</respuesta>
+    </pregunta>
+
+    <pregunta id="2">
+        <enunciado>¿Cuál de las siguientes opciones es un lenguaje de programación?</enunciado>
+        <opciones>
+            <opcion>A) HTTP</opcion>
+            <opcion>B) JSON</opcion>
+            <opcion>C) Python</opcion>
+            <opcion>D) XML</opcion>
+        </opciones>
+        <respuesta>C</respuesta>
+    </pregunta>
+
+    <pregunta id="3">
+        <enunciado>¿Cuál es el valor que representa "falso" en un lenguaje de programación como JavaScript?</enunciado>
+        <opciones>
+            <opcion>A) true</opcion>
+            <opcion>B) 0</opcion>
+            <opcion>C) 1</opcion>
+            <opcion>D) false</opcion>
+        </opciones>
+        <respuesta>D</respuesta>
+    </pregunta>
+
+    <pregunta id="4">
+        <enunciado>¿Cuál de estos es un lenguaje de marcado?</enunciado>
+        <opciones>
+            <opcion>A) CSS</opcion>
+            <opcion>B) HTML</opcion>
+            <opcion>C) Java</opcion>
+            <opcion>D) Python</opcion>
+        </opciones>
+        <respuesta>B</respuesta>
+    </pregunta>
+
+    <pregunta id="5">
+        <enunciado>¿Qué símbolo se utiliza para comentar una línea de código en JavaScript?</enunciado>
+        <opciones>
+            <opcion>A) /. comentario ./</opcion>
+            <opcion>B) // comentario</opcion>
+            <opcion>C) # comentario</opcion>
+            <opcion>D) /* comentario */</opcion>
+        </opciones>
+        <respuesta>B</respuesta>
+    </pregunta>
+
+    <pregunta id="6">
+        <enunciado>¿Qué significa "CSS"?</enunciado>
+        <opciones>
+            <opcion>A) Computer Style Sheets</opcion>
+            <opcion>B) Creative Style System</opcion>
+            <opcion>C) Cascading Style Sheets</opcion>
+            <opcion>D) Colorful Style Sheets</opcion>
+        </opciones>
+        <respuesta>C</respuesta>
+    </pregunta>
+
+    <pregunta id="7">
+        <enunciado>¿Cuál de los siguientes no es un lenguaje de programación orientado a objetos?</enunciado>
+        <opciones>
+            <opcion>A) Python</opcion>
+            <opcion>B) Java</opcion>
+            <opcion>C) C++</opcion>
+            <opcion>D) HTML</opcion>
+        </opciones>
+        <respuesta>D</respuesta>
+    </pregunta>
+
+    <pregunta id="8">
+        <enunciado>¿Qué comando se usa para imprimir enunciado en la consola en Python?</enunciado>
+        <opciones>
+            <opcion>A) echo</opcion>
+            <opcion>B) console.log()</opcion>
+            <opcion>C) print()</opcion>
+            <opcion>D) printf()</opcion>
+        </opciones>
+        <respuesta>C</respuesta>
+    </pregunta>
+
+    <pregunta id="9">
+        <enunciado>¿Qué es una función en programación?</enunciado>
+        <opciones>
+            <opcion>A) Un tipo de variable</opcion>
+            <opcion>B) Una secuencia de instrucciones</opcion>
+            <opcion>C) Una constante en el código</opcion>
+            <opcion>D) Una interfaz gráfica</opcion>
+        </opciones>
+        <respuesta>B</respuesta>
+    </pregunta>
+
+    <pregunta id="10">
+        <enunciado>¿Cuál es el símbolo correcto para acceder a propiedades de un objeto en JavaScript?</enunciado>
+        <opciones>
+            <opcion>A) :</opcion>
+            <opcion>B) .</opcion>
+            <opcion>C) ,</opcion>
+            <opcion>D) /</opcion>
+        </opciones>
+        <respuesta>B</respuesta>
+    </pregunta>
+
+</examen>
